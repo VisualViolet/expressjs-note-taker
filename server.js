@@ -4,7 +4,7 @@ const allRoutes = require("./controllers");
 
 // Global Variables
 const app = express();
-const PORT = 3001;
+const PORT = process.env.port || 3001;
 
 // Middleware
 app.use(express.json());
