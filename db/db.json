@@ -1,10 +1,7 @@
 [
     {
-        "title": "Test Note",
-        "text": "test",
-        "id": "fecf8e98-2214-4aae-897b-3b6c70761a8b"
-    },
-    {
-        "id": "7bdfde2a-f26c-4599-bb56-d6fcbe4ba129"
+        "title": "Hello!",
+        "text": "Welcome to my note taking application. I hope you enjoy!",
+        "id": "bf6dcb7b-73b7-4f49-adcb-6fda406ca10e"
     }
 ]
