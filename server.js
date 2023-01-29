@@ -1,7 +1,8 @@
 // Required packages
 const express = require("express");
-const allRoutes = require('./controllers');
+const allRoutes = require("./controllers");
 
+// Global Variables
 const app = express();
 const PORT = 3001;
 
