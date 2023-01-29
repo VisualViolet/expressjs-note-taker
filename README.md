@@ -14,7 +14,7 @@ Note Taker is a server run note taking application built with Express.js. This w
 
 ## Installation
 
-No installation is necessary. Please view my live, deployed application on Heroku:
+No installation is necessary. Please view my live, deployed application on Heroku: https://expressnotetakerapi.herokuapp.com/.
 
 ## Usage
 
